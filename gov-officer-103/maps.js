@@ -40,7 +40,9 @@
           "縣市：" + info.county,
           "名稱：" + info.name,
           "地址：" + info.address,
-          "　　　" + info.geo_results[0].formatted_address
+          "　　　" + info.geo_results[0].formatted_address,
+          "工作內容：",
+          info.works.join("<br/>")
         ].join("<br/>");
         infowindow.open(map, marker);
       });
