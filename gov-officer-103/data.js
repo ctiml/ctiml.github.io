@@ -3,6 +3,10 @@ var data = [
     "name": "交通部公路總局台北市區監理所",
     "county": "台北市",
     "address": "台北市松山區八德路4段21號",
+    "works": [
+      "1. 辦理一般行政相關工作",
+      "2. 其他交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -88,6 +92,10 @@ var data = [
     "name": "交通部民用航空局飛航服務總臺",
     "county": "台北市",
     "address": "台北市濱江街362號",
+    "works": [
+      "1. 辦理一般行政庶務工作",
+      "2. 其他交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -174,6 +182,9 @@ var data = [
     "name": "交通部觀光局",
     "county": "台北市",
     "address": "台北市忠孝東路4段290號9樓",
+    "works": [
+      "1. 辦理文書處理相關工作"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -260,6 +271,12 @@ var data = [
     "name": "交通部運輸研究所",
     "county": "台北市",
     "address": "台北市敦化北路240號",
+    "works": [
+      "1. 辦理本所目標管理績效考評、性別影響評估相關事項",
+      "2. 院首長電子民意信箱管理系統相關事項",
+      "3. 本所零用金收支管理業務",
+      "4. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -346,6 +363,9 @@ var data = [
     "name": "內政部警政署民防指揮管制所",
     "county": "台北市",
     "address": "台北市文山區萬盛街15-3號",
+    "works": [
+      "1. 一般行政及庶務工作"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -1067,6 +1087,9 @@ var data = [
     "name": "內政部警政署警察通訊所",
     "county": "台北市",
     "address": "台北市文山區萬盛街15-1號",
+    "works": [
+      "1. 一般行政工作及臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -1866,7 +1889,10 @@ var data = [
   {
     "name": "台北市信義區公所",
     "county": "台北市",
-    "address": "\"台北市信義路5段15號6",
+    "address": "台北市信義路5段15號6樓",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -1956,6 +1982,10 @@ var data = [
     "name": "台北市公共運輸處",
     "county": "台北市",
     "address": "台北市信義區松德路300號4樓",
+    "works": [
+      "1. 辦理一般行政相關工作",
+      "2. 其他交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -2042,6 +2072,10 @@ var data = [
     "name": "台北市政府地政局",
     "county": "台北市",
     "address": "台北市市府路1號3樓",
+    "works": [
+      "1. 一般行政管理業務",
+      "2. 其他交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -2128,6 +2162,9 @@ var data = [
     "name": "台北市政府工務局公園路燈工程管理處",
     "county": "台北市",
     "address": "台北市懷寧街109號",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -2214,6 +2251,9 @@ var data = [
     "name": "台北市政府工務局大地工程處",
     "county": "台北市",
     "address": "台北市信義區松德路300號3樓",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -2300,6 +2340,9 @@ var data = [
     "name": "台北市政府教育局",
     "county": "台北市",
     "address": "台北市市府號一號",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -2989,6 +3032,99 @@ var data = [
     "name": "台北市政府環境保護局",
     "county": "台北市",
     "address": "台北市市府路1號7樓",
+    "works": [
+      "1. 環境衛生及資源回收業務之規劃執行、督導、統計、教育宣導等工作",
+      "2. 其他臨時交辦事項"
+    ],
+    "geo_results": [
+      {
+        "address_components": [
+          {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "市府路",
+            "short_name": "市府路",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "西村里",
+            "short_name": "西村里",
+            "types": [
+              "sublocality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "信義區",
+            "short_name": "信義區",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "台北市",
+            "short_name": "北市",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "台灣",
+            "short_name": "TW",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "110",
+            "short_name": "110",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "110台灣台北市信義區市府路1號",
+        "geometry": {
+          "location": {
+            "lat": 25.037525,
+            "lng": 121.563782
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 25.0388739802915,
+              "lng": 121.5651309802915
+            },
+            "southwest": {
+              "lat": 25.0361760197085,
+              "lng": 121.5624330197085
+            }
+          }
+        },
+        "partial_match": true,
+        "types": [
+          "street_address"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "台北市政府環境保護局",
+    "county": "台北市",
+    "address": "台北市市府路1號7樓",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3075,6 +3211,9 @@ var data = [
     "name": "台北市政府產業發展局",
     "county": "台北市",
     "address": "台北市信義區市府路1號",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3161,6 +3300,9 @@ var data = [
     "name": "台北市政府警察局",
     "county": "台北市",
     "address": "台北市中正區延平南路96號",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3247,6 +3389,9 @@ var data = [
     "name": "台北市政府警察局(含所屬機關)",
     "county": "台北市",
     "address": "台北市中正區延平南路96號",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3333,6 +3478,9 @@ var data = [
     "name": "台北市政府都市發展局",
     "county": "台北市",
     "address": "台北市市府路1號9樓",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3419,6 +3567,11 @@ var data = [
     "name": "台北市立圖書館",
     "county": "台北市",
     "address": "台北市大安區建國南路2段125號",
+    "works": [
+      "1. 圖書管理",
+      "2. 櫃台輪值(須輪值早晚班及假日班)",
+      "3. 其他交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3505,6 +3658,14 @@ var data = [
     "name": "台北市立百齡高級中學",
     "county": "台北市",
     "address": "台北市承德路4段177號",
+    "works": [
+      "1. 公文收發文及分送",
+      "2. 處理信件、包裏、傳真收發及分送掛號信件",
+      "3. 處理密件公文",
+      "4. 協助整理檔案室及調案",
+      "5. 撰寫校務會議紀錄",
+      "6. 一般行政業務及其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3590,6 +3751,9 @@ var data = [
     "name": "台北市立美術館",
     "county": "台北市",
     "address": "台北市中山北路三段181號",
+    "works": [
+      "1. 辦理一般行政相關業務及協助人事業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3676,6 +3840,103 @@ var data = [
     "name": "國家通訊傳播委員會",
     "county": "台北市",
     "address": "台北市中正區仁愛路一段50號",
+    "works": [
+      "1. 協助辦理傳播普及發展之行政業務事項",
+      "2. 傳播普及發展文件整理保存事項",
+      "3. 行政業務彙辦事項",
+      "4. 其他臨時交辦事項"
+    ],
+    "geo_results": [
+      {
+        "address_components": [
+          {
+            "long_name": "50",
+            "short_name": "50",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "仁愛路一段",
+            "short_name": "仁愛路一段",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "東門里",
+            "short_name": "東門里",
+            "types": [
+              "sublocality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "中正區",
+            "short_name": "中正區",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "台北市",
+            "short_name": "北市",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "台灣",
+            "short_name": "TW",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "100",
+            "short_name": "100",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "100台灣台北市中正區仁愛路一段50號",
+        "geometry": {
+          "location": {
+            "lat": 25.0381128,
+            "lng": 121.5246836
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 25.0394617802915,
+              "lng": 121.5260325802915
+            },
+            "southwest": {
+              "lat": 25.0367638197085,
+              "lng": 121.5233346197085
+            }
+          }
+        },
+        "partial_match": true,
+        "types": [
+          "street_address"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "國家通訊傳播委員會",
+    "county": "台北市",
+    "address": "台北市中正區仁愛路一段50號",
+    "works": [
+      "1. 協助辦理通訊消費爭議相關資料蒐集及統計",
+      "2. 通訊消費爭議相關文件整理及其他行政務彙辦",
+      "3. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3762,6 +4023,12 @@ var data = [
     "name": "國立國父紀念館",
     "county": "台北市",
     "address": "台北市信義區仁愛路四段505號",
+    "works": [
+      "1. 辦理全館公文文件總收發處理",
+      "2. 彙整並統計全館各單位時效資料",
+      "3. 電子公文交換及線上簽核",
+      "4. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3848,6 +4115,10 @@ var data = [
     "name": "國立故宮博物院",
     "county": "台北市",
     "address": "台北市士林區至善路二段221號",
+    "works": [
+      "1. 本院教育展資處相關行政業務",
+      "2. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -3934,6 +4205,10 @@ var data = [
     "name": "文化部",
     "county": "台北市",
     "address": "新北市新莊區中平路439號",
+    "works": [
+      "1. 本部財產管理相關事項",
+      "2. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -4020,6 +4295,11 @@ var data = [
     "name": "總統府",
     "county": "台北市",
     "address": "台北市重慶南路一段一二二號",
+    "works": [
+      "1. 辦理車輛及駕駛調度",
+      "2. 辦理油料管理",
+      "3. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -4106,6 +4386,9 @@ var data = [
     "name": "衛生福利部中央健康保險署",
     "county": "台北市",
     "address": "台北市大安區信義路三段140號",
+    "works": [
+      "1. 辦理全民健保一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -4192,6 +4475,11 @@ var data = [
     "name": "衛生福利部疾病管制署",
     "county": "台北市",
     "address": "台北市中正區林森南路6號",
+    "works": [
+      "1. 文書處理、檔案管理及協辦人事行政等相關業務",
+      "2. 檔案管理、編目、整卷、上架等事宜",
+      "3. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -4278,6 +4566,9 @@ var data = [
     "name": "衛生福利部食品藥物管理署",
     "county": "台北市",
     "address": "台北市南港區昆陽街161-2號",
+    "works": [
+      "1. 秘書室一般行政工作"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -4364,6 +4655,9 @@ var data = [
     "name": "財政部台北國稅局",
     "county": "台北市",
     "address": "台北市萬華區中華路一段2號",
+    "works": [
+      "1. 辦理庶務、文書、出納、檔案等一般行政業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -4450,6 +4744,9 @@ var data = [
     "name": "財政部國有財產署北區分署",
     "county": "台北市",
     "address": "台北市忠孝東路四段290號3樓",
+    "works": [
+      "1. 出納相關業務及其他交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -6198,6 +6495,10 @@ var data = [
     "name": "勞動部勞動力發展署",
     "county": "新北市",
     "address": "新北市新莊區中平路439號",
+    "works": [
+      "1. 辦理一般行政相關工作",
+      "2. 其他交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -6284,6 +6585,9 @@ var data = [
     "name": "勞動部職業安全衛生署",
     "county": "新北市",
     "address": "新北市新莊區中平路439號",
+    "works": [
+      "1. 公文之收發及登記等相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -6370,6 +6674,11 @@ var data = [
     "name": "國軍退除役官兵輔導委員會板橋榮譽國民之家",
     "county": "新北市",
     "address": "新北市板橋區大觀路二段32號",
+    "works": [
+      "1. 財產、勞務採購等業務",
+      "2. 庫房管理及家區財產管理",
+      "3. 臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -6453,9 +6762,104 @@ var data = [
     ]
   },
   {
+    "name": "新北市三峽區公所",
+    "county": "新北市",
+    "address": "新北市三峽區中山路17號",
+    "works": [
+      "1. 為民服務業務",
+      "2. 辦公廳舍管理與維護",
+      "3. 車輛管理及大禮堂管理",
+      "4. 其他臨時交辦事項"
+    ],
+    "geo_results": [
+      {
+        "address_components": [
+          {
+            "long_name": "17",
+            "short_name": "17",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "中山路",
+            "short_name": "中山路",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "三峽里",
+            "short_name": "三峽里",
+            "types": [
+              "sublocality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "三峽區",
+            "short_name": "三峽區",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "新北市",
+            "short_name": "新北市",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "台灣",
+            "short_name": "TW",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "237",
+            "short_name": "237",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "237台灣新北市三峽區中山路17號",
+        "geometry": {
+          "location": {
+            "lat": 24.9342466,
+            "lng": 121.3689397
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 24.9355955802915,
+              "lng": 121.3702886802915
+            },
+            "southwest": {
+              "lat": 24.9328976197085,
+              "lng": 121.3675907197085
+            }
+          }
+        },
+        "partial_match": true,
+        "types": [
+          "street_address"
+        ]
+      }
+    ]
+  },
+  {
     "name": "新北市土城區公所",
     "county": "新北市",
     "address": "新北市土城區金城路一段101號",
+    "works": [
+      "1. 辦理一般行政業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -6542,6 +6946,9 @@ var data = [
     "name": "新北市政府政風處",
     "county": "新北市",
     "address": "新北市板橋區中山路一段161號12樓",
+    "works": [
+      "1. 辦理一般行政業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -6786,6 +7193,9 @@ var data = [
     "name": "新北市政府教育局",
     "county": "新北市",
     "address": "新北市板橋區中山路一段161號21樓",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -6872,6 +7282,10 @@ var data = [
     "name": "新北市政府新建工程處",
     "county": "新北市",
     "address": "新北市板橋區中山路一段161號13樓",
+    "works": [
+      "1. 辦理一般行政相關業務",
+      "2. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -6958,6 +7372,9 @@ var data = [
     "name": "新北市政府殯葬管理處",
     "county": "新北市",
     "address": "新北市板橋區中正路601號",
+    "works": [
+      "1. 辦理一般行政業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7044,6 +7461,9 @@ var data = [
     "name": "新北市政府水利局",
     "county": "新北市",
     "address": "新北市板橋區中山路一段161號29樓",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7130,6 +7550,9 @@ var data = [
     "name": "新北市政府消防局",
     "county": "新北市",
     "address": "新北市板橋區南雅南路二段15號",
+    "works": [
+      "1. 事務、物品及財產管理、文處處理、出納業務等"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7216,6 +7639,10 @@ var data = [
     "name": "新北市政府環境保護局",
     "county": "新北市",
     "address": "新北市板橋區民族路57號",
+    "works": [
+      "1. 辦理一般行政業務",
+      "2. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7302,6 +7729,9 @@ var data = [
     "name": "新北市政府研究發展考核委員會",
     "county": "新北市",
     "address": "新北市板橋區中山路一段161號17樓",
+    "works": [
+      "1. 辦理一般行政業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7388,6 +7818,9 @@ var data = [
     "name": "新北市政府稅捐稽徵處",
     "county": "新北市",
     "address": "新北市板橋區中山路一段143號",
+    "works": [
+      "1. 辦理一般行政業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7474,6 +7907,9 @@ var data = [
     "name": "新北市政府警察局",
     "county": "新北市",
     "address": "新北市板橋區府中路32號",
+    "works": [
+      "1. 辦理一般行政相關業務及臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7560,6 +7996,9 @@ var data = [
     "name": "新北市政府都市更新處",
     "county": "新北市",
     "address": "新北市板橋區漢生東路266號2樓",
+    "works": [
+      "1. 研考及其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7648,6 +8087,10 @@ var data = [
     "name": "新北市政府高灘地工程管理處",
     "county": "新北市",
     "address": "新北市板橋區中正路601號",
+    "works": [
+      "1. 辦理有關一般行政相關業務",
+      "2. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7734,6 +8177,9 @@ var data = [
     "name": "新北市新店區公所",
     "county": "新北市",
     "address": "新北市新店區北新路一段80號",
+    "works": [
+      "1. 辦理一般行政業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7820,6 +8266,9 @@ var data = [
     "name": "新北市永和區公所",
     "county": "新北市",
     "address": "新北市永和區竹林路200號",
+    "works": [
+      "1. 辦理一般行政業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7906,6 +8355,9 @@ var data = [
     "name": "新北市議會",
     "county": "新北市",
     "address": "新北市板橋區文化路二段166號",
+    "works": [
+      "1. 辦理出納管理事項及臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -7992,6 +8444,10 @@ var data = [
     "name": "桃園縣大溪鎮公所(含所屬機關)",
     "county": "桃園縣",
     "address": "桃園縣大溪鎮普濟路11號",
+    "works": [
+      "1. 一般行政相關業務",
+      "2. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -8078,6 +8534,9 @@ var data = [
     "name": "桃園縣政府教育局",
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -9198,6 +9657,10 @@ var data = [
     "name": "桃園縣政府新聞處",
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
+    "works": [
+      "1. 總務、預算、出納、庶務相關業務",
+      "2. 配合本府各局處活動協助"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -10318,6 +10781,11 @@ var data = [
     "name": "桃園縣政府研究發展考核委員會",
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
+    "works": [
+      "1. 辦理文書、印信、出納業務",
+      "2. 辦理檔案管理業務",
+      "3. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -11438,6 +11906,13 @@ var data = [
     "name": "桃園縣政府觀光旅遊局",
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
+    "works": [
+      "1. 主管公文收發登記、繕校等文書檢核業務",
+      "2. 辦理檔案管理及檔案檢調(還)卷事項",
+      "3. 清查整理檔案存毀及維護事項",
+      "4. 辦公廳舍之維護與管理",
+      "5. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -12558,6 +13033,9 @@ var data = [
     "name": "桃園縣政府警察局",
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路3號",
+    "works": [
+      "1. 一般行政工作"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -12644,6 +13122,11 @@ var data = [
     "name": "桃園縣政府資訊中心",
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
+    "works": [
+      "1. 辦理本中心公文收發、檔案管理等業務",
+      "2. 辦理本中心決行文稿及文書之用印、信件管理等業務",
+      "3. 其他臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -13764,6 +14247,9 @@ var data = [
     "name": "桃園縣政府體育處",
     "county": "桃園縣",
     "address": "桃園縣桃園市三民路一段1號",
+    "works": [
+      "1. 辦理一般行政相關業務"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -13850,6 +14336,11 @@ var data = [
     "name": "法務部矯正署台北監獄",
     "county": "桃園縣",
     "address": "桃園縣龜山鄉宏德新村2號",
+    "works": [
+      "1. 帳務處理",
+      "2. 文書處理",
+      "3. 臨時交辦事項"
+    ],
     "geo_results": [
       {
         "address_components": [
@@ -13937,6 +14428,10 @@ var data = [
     "name": "行政院環境保護署環境保護人員訓練所",
     "county": "桃園縣",
     "address": "桃園縣中壢市民族路3段260號5樓",
+    "works": [
+      "1. 辦理一般行政相關工作",
+      "2. 該職缺未來配合行政院組織調整，將隨同業務移撥至環境資源部或所屬機關，屆時並以調整後情形為準"
+    ],
     "geo_results": [
       {
         "address_components": [
