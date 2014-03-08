@@ -37,3 +37,9 @@ body { height: 100%; margin: 0; padding: 0 }
 #map-canvas {
     height: 100%;
 }
+
+@media (max-width: 800px) {
+    #left {
+        display: none;
+    }
+}
