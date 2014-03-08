@@ -4,12 +4,12 @@
 
   function initialize() {
     var mapOptions = {
-      center: new google.maps.LatLng(25.047015, 121.470408),
+      center: new google.maps.LatLng(25.046519, 121.517524),
       zoom: 13
     };
     var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
     var infowindow = new google.maps.InfoWindow({
-      content: "test"
+      content: "請移動滑鼠指標到左邊的機關名稱"
     });
 
     $.each(data, function(index, d) {
