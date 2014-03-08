@@ -1,5 +1,4 @@
 (function() {
-  var markers = {}
   var infos = {}
 
   function initialize() {
@@ -18,33 +17,31 @@
         position: new google.maps.LatLng(l.lat, l.lng),
         map: map,
         animation: google.maps.Animation.DROP,
-        title: 'Click to zoom'
+        title: d.name.trim()
       });
       google.maps.event.addListener(marker, 'click', function() {
+        infowindow.content = marker.title
         infowindow.open(map, marker);
       });
-      markers[d.name.trim()] = marker;
       infos[d.name.trim()] = d;
-      var a = $('<a></a>').attr('data-name', d.name.trim()).attr('href', 'javascript:void(0)').text(d.name);
+      var a = $('<a></a>').attr('href', 'javascript:void(0)').text(d.name);
       var li = $('<li/>').html(a);
       a.mouseover(function() {
         $(this).parent().addClass('active');
-        var name = $(this).data('name');
-        infowindow.content = name;
-        infowindow.open(map, markers[name]);
+        infowindow.content = marker.title;
+        infowindow.open(map, marker);
       }).mouseout(function() {
         $(this).parent().removeClass('active');
         //infowindow.close();
       });
       a.click(function(){
-        var name = $(this).data('name');
-        var info = infos[name];
+        var info = infos[marker.title];
         infowindow.content = [
           "縣市：" + info.county,
           "名稱：" + info.name,
           "地址：" + info.address
         ].join("<br/>");
-        infowindow.open(map, markers[name]);
+        infowindow.open(map, marker);
       });
       $('.list').append(li);
     });
