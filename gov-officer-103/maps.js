@@ -8,7 +8,7 @@
     };
     var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
     var infowindow = new google.maps.InfoWindow({
-      content: "請移動滑鼠指標到左邊的機關名稱"
+      content: ""
     });
 
     $.each(data, function(index, d) {
