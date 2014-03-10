@@ -42,7 +42,8 @@
         infowindow.content = marker.title
         infowindow.open(map, marker);
       });
-      infos[d.name.trim()] = d;
+      infos[d.id] = d;
+      marker.id = d.id;
       var hash = d.county.hashCode();
       var color = intToARGB(hash).substr(0, 6);
       if (hash % 2 == 0) {
@@ -61,7 +62,7 @@
         }
       });
       a.click(function(){
-        var info = infos[marker.title];
+        var info = infos[marker.id];
         infowindow.content = [
           "縣　　市：" + info.county,
           "機關名稱：" + info.name,
