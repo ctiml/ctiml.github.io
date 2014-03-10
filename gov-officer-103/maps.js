@@ -56,6 +56,7 @@
       a.mouseover(function() {
         $(this).parent().addClass('active').siblings().removeClass('active');
         if (current_marker != marker) {
+          infowindow.close();
           infowindow.content = marker.title;
           infowindow.open(map, marker);
           current_marker = marker;
