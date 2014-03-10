@@ -65,8 +65,13 @@
       a.click(function(){
         var info = infos[marker.id];
         infowindow.content = [
+          $('<div/>').css({
+            "font-weight":"bold",
+            "display":"inline-block",
+            "font-size":"16px",
+            "padding":"3px 0px"
+          }).text(info.name)[0].outerHTML,
           "縣　　市：" + info.county,
-          "機關名稱：" + info.name,
           "職　　缺：" + info.need_now,
           "是否現缺：" + (parseInt(info.has_need) == 1 ? "Yes" : "No"),
           "地　　址：" + info.address,
