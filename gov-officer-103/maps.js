@@ -1,5 +1,6 @@
 (function() {
   var infos = {}
+  var current_marker = null;
 
   String.prototype.hashCode = function() {
     var hash = 0, i, char;
@@ -52,12 +53,12 @@
       var a = $('<a></a>').attr('href', 'javascript:void(0)').append(span_tag).append(span_name);
       var li = $('<li/>').html(a);
       a.mouseover(function() {
-        $(this).parent().addClass('active');
-        infowindow.content = marker.title;
-        infowindow.open(map, marker);
-      }).mouseout(function() {
-        $(this).parent().removeClass('active');
-        //infowindow.close();
+        $(this).parent().addClass('active').siblings().removeClass('active');
+        if (current_marker != marker) {
+          infowindow.content = marker.title;
+          infowindow.open(map, marker);
+          current_marker = marker;
+        }
       });
       a.click(function(){
         var info = infos[marker.title];
