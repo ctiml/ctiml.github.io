@@ -7,7 +7,7 @@ var data = [
     "county": "宜蘭縣",
     "address": "宜蘭市中山路二段167號",
     "works": [
-      "1. 宜蘭市中山路二段167號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -97,7 +97,7 @@ var data = [
     "county": "基隆市",
     "address": "基隆市中正區中正路5號",
     "works": [
-      "1. 基隆市中正區中正路5號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -187,7 +187,7 @@ var data = [
     "county": "基隆市",
     "address": "基隆市信義區信二路266號",
     "works": [
-      "1. 基隆市信義區信二路266號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -277,7 +277,7 @@ var data = [
     "county": "基隆市",
     "address": "基隆市信二路268號",
     "works": [
-      "1. 基隆市信二路268號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -367,7 +367,8 @@ var data = [
     "county": "台北市",
     "address": "台北市松山區八德路四段21號",
     "works": [
-      "1. 台北市松山區八德路四段21號"
+      "1. 辦理一般行政相關工作",
+      "2. 其他交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -456,7 +457,8 @@ var data = [
     "county": "台北市",
     "address": "台北市濱江街362號",
     "works": [
-      "1. 台北市濱江街362號"
+      "1. 辦理一般行政庶務工作",
+      "2. 其他交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -546,7 +548,7 @@ var data = [
     "county": "台北市",
     "address": "台北市忠孝東路四段290號",
     "works": [
-      "1. 台北市忠孝東路四段290號"
+      "1. 辦理文書處理相關工作"
     ],
     "geo_results": {
       "address_components": [
@@ -636,7 +638,10 @@ var data = [
     "county": "台北市",
     "address": "台北市敦化北路240號",
     "works": [
-      "1. 台北市敦化北路240號"
+      "1. 辦理本所目標管理績效考評、性別影響評估相關事項",
+      "2. 院首長電子民意信箱管理系統相關事項",
+      "3. 本所零用金收支管理業務",
+      "4. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -726,7 +731,7 @@ var data = [
     "county": "台北市",
     "address": "台北市文山區萬盛街15號",
     "works": [
-      "1. 台北市文山區萬盛街15號"
+      "1. 一般行政及庶務工作"
     ],
     "geo_results": {
       "address_components": [
@@ -826,7 +831,7 @@ var data = [
     "county": "台北市",
     "address": "台北市文山區萬盛街15號",
     "works": [
-      "1. 台北市文山區萬盛街15號"
+      "1. 一般行政工作及臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -926,7 +931,7 @@ var data = [
     "county": "台北市",
     "address": "台北市信義路五段15號",
     "works": [
-      "1. 台北市信義路五段15號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -1016,7 +1021,8 @@ var data = [
     "county": "台北市",
     "address": "台北市信義區松德路300號",
     "works": [
-      "1. 台北市信義區松德路300號"
+      "1. 辦理一般行政相關工作",
+      "2. 其他交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -1106,7 +1112,8 @@ var data = [
     "county": "台北市",
     "address": "台北市市府路1號",
     "works": [
-      "1. 台北市市府路1號"
+      "1. 一般行政管理業務",
+      "2. 其他交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -1196,7 +1203,7 @@ var data = [
     "county": "台北市",
     "address": "台北市懷寧街109號",
     "works": [
-      "1. 台北市懷寧街109號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -1286,7 +1293,7 @@ var data = [
     "county": "台北市",
     "address": "台北市信義區松德路300號",
     "works": [
-      "1. 台北市信義區松德路300號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -1376,7 +1383,7 @@ var data = [
     "county": "台北市",
     "address": "台北市市府路1號",
     "works": [
-      "1. 台北市市府路1號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -1466,7 +1473,8 @@ var data = [
     "county": "台北市",
     "address": "台北市市府路1號",
     "works": [
-      "1. 台北市市府路1號"
+      "1. 環境衛生及資源回收業務之規劃執行、督導、統計、教育宣導等工作",
+      "2. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -1556,7 +1564,7 @@ var data = [
     "county": "台北市",
     "address": "台北市市府路1號",
     "works": [
-      "1. 台北市市府路1號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -1646,7 +1654,7 @@ var data = [
     "county": "台北市",
     "address": "台北市信義區市府路1號",
     "works": [
-      "1. 台北市信義區市府路1號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -1736,7 +1744,7 @@ var data = [
     "county": "台北市",
     "address": "台北市中正區延平南路96號",
     "works": [
-      "1. 台北市中正區延平南路96號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -1826,7 +1834,7 @@ var data = [
     "county": "台北市",
     "address": "台北市中正區延平南路96號",
     "works": [
-      "1. 台北市中正區延平南路96號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -1916,7 +1924,7 @@ var data = [
     "county": "台北市",
     "address": "台北市市府路1號",
     "works": [
-      "1. 台北市市府路1號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -2006,7 +2014,9 @@ var data = [
     "county": "台北市",
     "address": "台北市大安區建國南路二段125號",
     "works": [
-      "1. 台北市大安區建國南路二段125號"
+      "1. 圖書管理",
+      "2. 櫃台輪值(須輪值早晚班及假日班)",
+      "3. 其他交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -2096,7 +2106,12 @@ var data = [
     "county": "台北市",
     "address": "台北市承德路四段177號",
     "works": [
-      "1. 台北市承德路四段177號"
+      "1. 公文收發文及分送",
+      "2. 處理信件、包裏、傳真收發及分送掛號信件",
+      "3. 處理密件公文",
+      "4. 協助整理檔案室及調案",
+      "5. 撰寫校務會議紀錄",
+      "6. 一般行政業務及其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -2185,7 +2200,7 @@ var data = [
     "county": "台北市",
     "address": "台北市中山北路三段181號",
     "works": [
-      "1. 台北市中山北路三段181號"
+      "1. 辦理一般行政相關業務及協助人事業務"
     ],
     "geo_results": {
       "address_components": [
@@ -2275,7 +2290,9 @@ var data = [
     "county": "台北市",
     "address": "台北市中正區仁愛路一段50號",
     "works": [
-      "1. 台北市中正區仁愛路一段50號"
+      "1. 協助辦理通訊消費爭議相關資料蒐集及統計",
+      "2. 通訊消費爭議相關文件整理及其他行政務彙辦",
+      "3. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -2365,7 +2382,10 @@ var data = [
     "county": "台北市",
     "address": "台北市濟南路二段16號",
     "works": [
-      "1. 台北市濟南路二段16號"
+      "1. 協助辦理傳播普及發展之行政業務事項",
+      "2. 傳播普及發展文件整理保存事項",
+      "3. 行政業務彙辦事項",
+      "4. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -2455,7 +2475,10 @@ var data = [
     "county": "台北市",
     "address": "台北市信義區仁愛路四段505號",
     "works": [
-      "1. 台北市信義區仁愛路四段505號"
+      "1. 辦理全館公文文件總收發處理",
+      "2. 彙整並統計全館各單位時效資料",
+      "3. 電子公文交換及線上簽核",
+      "4. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -2545,7 +2568,8 @@ var data = [
     "county": "台北市",
     "address": "台北市士林區至善路二段221號",
     "works": [
-      "1. 台北市士林區至善路二段221號"
+      "1. 本院教育展資處相關行政業務",
+      "2. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -2635,7 +2659,8 @@ var data = [
     "county": "台北市",
     "address": "新北市新莊區中平路439號",
     "works": [
-      "1. 新北市新莊區中平路439號"
+      "1. 本部財產管理相關事項",
+      "2. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -2725,7 +2750,9 @@ var data = [
     "county": "台北市",
     "address": "台北市重慶南路一段122號",
     "works": [
-      "1. 台北市重慶南路一段122號"
+      "1. 辦理車輛及駕駛調度",
+      "2. 辦理油料管理",
+      "3. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -2815,7 +2842,7 @@ var data = [
     "county": "台北市",
     "address": "台北市大安區信義路三段140號",
     "works": [
-      "1. 台北市大安區信義路三段140號"
+      "1. 辦理全民健保一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -2905,7 +2932,7 @@ var data = [
     "county": "台北市",
     "address": "台北市大安區信義路三段140號",
     "works": [
-      "1. 台北市大安區信義路三段140號"
+      "1. 辦理全民健保一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -2995,7 +3022,7 @@ var data = [
     "county": "台北市",
     "address": "台北市大安區信義路三段140號",
     "works": [
-      "1. 台北市大安區信義路三段140號"
+      "1. 辦理全民健保一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -3085,7 +3112,9 @@ var data = [
     "county": "台北市",
     "address": "台北市中正區林森南路6號",
     "works": [
-      "1. 台北市中正區林森南路6號"
+      "1. 文書處理、檔案管理及協辦人事行政等相關業務",
+      "2. 檔案管理、編目、整卷、上架等事宜",
+      "3. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -3175,7 +3204,7 @@ var data = [
     "county": "台北市",
     "address": "台北市南港區昆陽街161-2號",
     "works": [
-      "1. 台北市南港區昆陽街161-2號"
+      "1. 秘書室一般行政工作"
     ],
     "geo_results": {
       "address_components": [
@@ -3265,7 +3294,7 @@ var data = [
     "county": "台北市",
     "address": "台北市萬華區中華路一段2號",
     "works": [
-      "1. 台北市萬華區中華路一段2號"
+      "1. 辦理庶務、文書、出納、檔案等一般行政業務"
     ],
     "geo_results": {
       "address_components": [
@@ -3355,7 +3384,7 @@ var data = [
     "county": "台北市",
     "address": "台北市忠孝東路四段290號",
     "works": [
-      "1. 台北市忠孝東路四段290號"
+      "1. 出納相關業務及其他交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -3445,7 +3474,8 @@ var data = [
     "county": "新北市",
     "address": "新北市新莊區中平路439號",
     "works": [
-      "1. 新北市新莊區中平路439號"
+      "1. 辦理一般行政相關工作",
+      "2. 其他交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -3535,7 +3565,7 @@ var data = [
     "county": "新北市",
     "address": "新北市新莊區中平路439號",
     "works": [
-      "1. 新北市新莊區中平路439號"
+      "1. 公文之收發及登記等相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -3625,7 +3655,9 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區大觀路二段32號",
     "works": [
-      "1. 新北市板橋區大觀路二段32號"
+      "1. 財產、勞務採購等業務",
+      "2. 庫房管理及家區財產管理",
+      "3. 臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -3715,7 +3747,10 @@ var data = [
     "county": "新北市",
     "address": "新北市三峽區中山路17號",
     "works": [
-      "1. 新北市三峽區中山路17號"
+      "1. 為民服務業務",
+      "2. 辦公廳舍管理與維護",
+      "3. 車輛管理及大禮堂管理",
+      "4. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -3805,7 +3840,7 @@ var data = [
     "county": "新北市",
     "address": "新北市土城區金城路一段101號",
     "works": [
-      "1. 新北市土城區金城路一段101號"
+      "1. 辦理一般行政業務"
     ],
     "geo_results": {
       "address_components": [
@@ -3895,7 +3930,7 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區中山路一段161號",
     "works": [
-      "1. 新北市板橋區中山路一段161號"
+      "1. 辦理一般行政業務"
     ],
     "geo_results": {
       "address_components": [
@@ -3984,7 +4019,7 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區中山路一段161號",
     "works": [
-      "1. 新北市板橋區中山路一段161號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -4073,7 +4108,8 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區中山路一段161號",
     "works": [
-      "1. 新北市板橋區中山路一段161號"
+      "1. 辦理一般行政相關業務",
+      "2. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -4162,7 +4198,7 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區中正路601號",
     "works": [
-      "1. 新北市板橋區中正路601號"
+      "1. 辦理一般行政業務"
     ],
     "geo_results": {
       "address_components": [
@@ -4252,7 +4288,7 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區中山路一段161號",
     "works": [
-      "1. 新北市板橋區中山路一段161號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -4341,7 +4377,7 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區南雅南路二段15號",
     "works": [
-      "1. 新北市板橋區南雅南路二段15號"
+      "1. 事務、物品及財產管理、文處處理、出納業務等"
     ],
     "geo_results": {
       "address_components": [
@@ -4431,7 +4467,8 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區民族路57號",
     "works": [
-      "1. 新北市板橋區民族路57號"
+      "1. 辦理一般行政業務",
+      "2. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -4521,7 +4558,7 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區中山路一段161號",
     "works": [
-      "1. 新北市板橋區中山路一段161號"
+      "1. 辦理一般行政業務"
     ],
     "geo_results": {
       "address_components": [
@@ -4610,7 +4647,7 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區中山路一段143號",
     "works": [
-      "1. 新北市板橋區中山路一段143號"
+      "1. 辦理一般行政業務"
     ],
     "geo_results": {
       "address_components": [
@@ -4700,7 +4737,7 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區府中路32號",
     "works": [
-      "1. 新北市板橋區府中路32號"
+      "1. 辦理一般行政相關業務及臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -4790,7 +4827,7 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區漢生東路266號",
     "works": [
-      "1. 新北市板橋區漢生東路266號"
+      "1. 研考及其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -4882,7 +4919,8 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區中正路601號",
     "works": [
-      "1. 新北市板橋區中正路601號"
+      "1. 辦理有關一般行政相關業務",
+      "2. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -4972,7 +5010,7 @@ var data = [
     "county": "新北市",
     "address": "新北市新店區北新路一段80號",
     "works": [
-      "1. 新北市新店區北新路一段80號"
+      "1. 辦理一般行政業務"
     ],
     "geo_results": {
       "address_components": [
@@ -5062,7 +5100,7 @@ var data = [
     "county": "新北市",
     "address": "新北市永和區竹林路200號",
     "works": [
-      "1. 新北市永和區竹林路200號"
+      "1. 辦理一般行政業務"
     ],
     "geo_results": {
       "address_components": [
@@ -5152,7 +5190,7 @@ var data = [
     "county": "新北市",
     "address": "新北市板橋區文化路二段166號",
     "works": [
-      "1. 新北市板橋區文化路二段166號"
+      "1. 辦理出納管理事項及臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -5242,7 +5280,8 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣大溪鎮普濟路11號",
     "works": [
-      "1. 桃園縣大溪鎮普濟路11號"
+      "1. 一般行政相關業務",
+      "2. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -5332,7 +5371,7 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
     "works": [
-      "1. 桃園縣桃園市縣府路1號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -5443,7 +5482,7 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
     "works": [
-      "1. 桃園縣桃園市縣府路1號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -5554,7 +5593,8 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
     "works": [
-      "1. 桃園縣桃園市縣府路1號"
+      "1. 總務、預算、出納、庶務相關業務",
+      "2. 配合本府各局處活動協助"
     ],
     "geo_results": {
       "address_components": [
@@ -5665,7 +5705,9 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
     "works": [
-      "1. 桃園縣桃園市縣府路1號"
+      "1. 辦理文書、印信、出納業務",
+      "2. 辦理檔案管理業務",
+      "3. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -5776,7 +5818,11 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
     "works": [
-      "1. 桃園縣桃園市縣府路1號"
+      "1. 主管公文收發登記、繕校等文書檢核業務",
+      "2. 辦理檔案管理及檔案檢調(還)卷事項",
+      "3. 清查整理檔案存毀及維護事項",
+      "4. 辦公廳舍之維護與管理",
+      "5. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -5887,7 +5933,7 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路3號",
     "works": [
-      "1. 桃園縣桃園市縣府路3號"
+      "1. 一般行政工作"
     ],
     "geo_results": {
       "address_components": [
@@ -5977,7 +6023,7 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路3號",
     "works": [
-      "1. 桃園縣桃園市縣府路3號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -6067,7 +6113,9 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣桃園市縣府路1號",
     "works": [
-      "1. 桃園縣桃園市縣府路1號"
+      "1. 辦理本中心公文收發、檔案管理等業務",
+      "2. 辦理本中心決行文稿及文書之用印、信件管理等業務",
+      "3. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -6178,7 +6226,7 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣桃園市三民路一段1號",
     "works": [
-      "1. 桃園縣桃園市三民路一段1號"
+      "1. 辦理一般行政相關業務"
     ],
     "geo_results": {
       "address_components": [
@@ -6268,7 +6316,9 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣龜山鄉宏德新村2號",
     "works": [
-      "1. 桃園縣龜山鄉宏德新村2號"
+      "1. 帳務處理",
+      "2. 文書處理",
+      "3. 臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -6359,7 +6409,8 @@ var data = [
     "county": "桃園縣",
     "address": "桃園縣中壢市民族路三段260號",
     "works": [
-      "1. 桃園縣中壢市民族路三段260號"
+      "1. 辦理一般行政相關工作",
+      "2. 該職缺未來配合行政院組織調整，將隨同業務移撥至環境資源部或所屬機關，屆時並以調整後情形為準"
     ],
     "geo_results": {
       "address_components": [
@@ -6449,7 +6500,7 @@ var data = [
     "county": "新竹市",
     "address": "新竹市西濱路一段440號",
     "works": [
-      "1. 新竹市西濱路一段440號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -6519,7 +6570,7 @@ var data = [
     "county": "新竹市",
     "address": "新竹市延平路一段110號",
     "works": [
-      "1. 新竹市延平路一段110號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -6609,7 +6660,7 @@ var data = [
     "county": "新竹市",
     "address": "新竹市松嶺路181號",
     "works": [
-      "1. 新竹市松嶺路181號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -6680,7 +6731,7 @@ var data = [
     "county": "苗栗縣",
     "address": "苗栗縣苗栗市府前路1號",
     "works": [
-      "1. 苗栗縣苗栗市府前路1號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -6770,7 +6821,7 @@ var data = [
     "county": "苗栗縣",
     "address": "苗栗市北苗里自治路50號",
     "works": [
-      "1. 苗栗市北苗里自治路50號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -6860,7 +6911,7 @@ var data = [
     "county": "台中市",
     "address": "台中市西屯區台灣大道三段99號",
     "works": [
-      "1. 台中市西屯區台灣大道三段99號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -6950,7 +7001,7 @@ var data = [
     "county": "台中市",
     "address": "台中市東區長福路245號",
     "works": [
-      "1. 台中市東區長福路245號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7040,7 +7091,7 @@ var data = [
     "county": "台中市",
     "address": "台中市南屯區文心南九路119號",
     "works": [
-      "1. 台中市南屯區文心南九路119號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7130,7 +7181,7 @@ var data = [
     "county": "台中市",
     "address": "台中市西屯區台灣大道三段99號",
     "works": [
-      "1. 台中市西屯區台灣大道三段99號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7220,7 +7271,7 @@ var data = [
     "county": "台中市",
     "address": "台中市西屯區文心路二段588號",
     "works": [
-      "1. 台中市西屯區文心路二段588號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7310,7 +7361,7 @@ var data = [
     "county": "台中市",
     "address": "台中市台中港路三段160號",
     "works": [
-      "1. 台中市台中港路三段160號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7395,7 +7446,7 @@ var data = [
     "county": "台中市",
     "address": "台中市北區三民路三段129號",
     "works": [
-      "1. 台中市北區三民路三段129號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7492,7 +7543,7 @@ var data = [
     "county": "台中市",
     "address": "台中市北區館前路1號",
     "works": [
-      "1. 台中市北區館前路1號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7582,7 +7633,7 @@ var data = [
     "county": "台中市",
     "address": "台中市南屯區培德路11號",
     "works": [
-      "1. 台中市南屯區培德路11號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7672,7 +7723,7 @@ var data = [
     "county": "台中市",
     "address": "台中市西屯區市政北一路66號",
     "works": [
-      "1. 台中市西屯區市政北一路66號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7762,7 +7813,7 @@ var data = [
     "county": "彰化縣",
     "address": "彰化縣和美鎮鹿和路六段115號",
     "works": [
-      "1. 彰化縣和美鎮鹿和路六段115號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7852,7 +7903,7 @@ var data = [
     "county": "彰化縣",
     "address": "彰化市光復路74號",
     "works": [
-      "1. 彰化市光復路74號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -7942,7 +7993,7 @@ var data = [
     "county": "彰化縣",
     "address": "彰化市中山路二段416號",
     "works": [
-      "1. 彰化市中山路二段416號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8032,7 +8083,7 @@ var data = [
     "county": "彰化縣",
     "address": "彰化縣彰化市中興路100號",
     "works": [
-      "1. 彰化縣彰化市中興路100號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8122,7 +8173,7 @@ var data = [
     "county": "南投縣",
     "address": "南投市中興新村光明路21號",
     "works": [
-      "1. 南投市中興新村光明路21號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8212,7 +8263,7 @@ var data = [
     "county": "南投縣",
     "address": "南投市民族路505號",
     "works": [
-      "1. 南投市民族路505號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8302,7 +8353,7 @@ var data = [
     "county": "雲林縣",
     "address": "雲林縣四湖鄉湖西村中山西路44號",
     "works": [
-      "1. 雲林縣四湖鄉湖西村中山西路44號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8392,7 +8443,7 @@ var data = [
     "county": "雲林縣",
     "address": "雲林縣東勢鄉東南村前街3號",
     "works": [
-      "1. 雲林縣東勢鄉東南村前街3號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8482,7 +8533,7 @@ var data = [
     "county": "雲林縣",
     "address": "雲林縣林內鄉林中村中正路340號",
     "works": [
-      "1. 雲林縣林內鄉林中村中正路340號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8572,7 +8623,7 @@ var data = [
     "county": "雲林縣",
     "address": "雲林縣斗六市大學路三段222號",
     "works": [
-      "1. 雲林縣斗六市大學路三段222號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8662,7 +8713,7 @@ var data = [
     "county": "雲林縣",
     "address": "雲林縣斗六市府文路20號",
     "works": [
-      "1. 雲林縣斗六市府文路20號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8752,7 +8803,7 @@ var data = [
     "county": "嘉義縣",
     "address": "嘉義縣太保市祥和一路東段3號",
     "works": [
-      "1. 嘉義縣太保市祥和一路東段3號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8842,7 +8893,7 @@ var data = [
     "county": "嘉義縣",
     "address": "嘉義縣朴子市祥和二路西段2-1號",
     "works": [
-      "1. 嘉義縣朴子市祥和二路西段2-1號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -8935,7 +8986,7 @@ var data = [
     "county": "台南市",
     "address": "台南市大內區大內里1號",
     "works": [
-      "1. 台南市大內區大內里1號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -9020,7 +9071,7 @@ var data = [
     "county": "台南市",
     "address": "台南市新營區民治路36號",
     "works": [
-      "1. 台南市新營區民治路36號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -9110,7 +9161,7 @@ var data = [
     "county": "台南市",
     "address": "台南市安平區永華路二段6號",
     "works": [
-      "1. 台南市安平區永華路二段6號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -9200,7 +9251,7 @@ var data = [
     "county": "台南市",
     "address": "台南市東山區東山里225號",
     "works": [
-      "1. 台南市東山區東山里225號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -9299,7 +9350,7 @@ var data = [
     "county": "台南市",
     "address": "台南市東區中華路二段133巷72號",
     "works": [
-      "1. 台南市東區中華路二段133巷72號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -9389,7 +9440,7 @@ var data = [
     "county": "台南市",
     "address": "台南市白河區三民路381號",
     "works": [
-      "1. 台南市白河區三民路381號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -9479,7 +9530,7 @@ var data = [
     "county": "台南市",
     "address": "台南市新營區東興路163號",
     "works": [
-      "1. 台南市新營區東興路163號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -9569,7 +9620,7 @@ var data = [
     "county": "台南市",
     "address": "台南市新營區中正路3號",
     "works": [
-      "1. 台南市新營區中正路3號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -9659,7 +9710,7 @@ var data = [
     "county": "台南市",
     "address": "台南市山上區玉峰里明德山莊1號",
     "works": [
-      "1. 台南市山上區玉峰里明德山莊1號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -9744,7 +9795,7 @@ var data = [
     "county": "台南市",
     "address": "台南市楠西區密枝里70號",
     "works": [
-      "1. 台南市楠西區密枝里70號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -9823,7 +9874,9 @@ var data = [
     "county": "高雄市",
     "address": "高雄市前鎮區加工出口區中一路2號",
     "works": [
-      "1. 高雄市前鎮區加工出口區中一路2號"
+      "1. 各項資料蒐集、彙整及統計",
+      "2. 課室收發",
+      "3. 其他臨時交辦事項"
     ],
     "geo_results": {
       "address_components": [
@@ -9913,7 +9966,7 @@ var data = [
     "county": "高雄市",
     "address": "高雄市苓雅區廣州一街148號",
     "works": [
-      "1. 高雄市苓雅區廣州一街148號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10003,7 +10056,7 @@ var data = [
     "county": "高雄市",
     "address": "高雄市前金區中華三路68號",
     "works": [
-      "1. 高雄市前金區中華三路68號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10093,7 +10146,7 @@ var data = [
     "county": "高雄市",
     "address": "高雄市苓雅區凱旋二路132號",
     "works": [
-      "1. 高雄市苓雅區凱旋二路132號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10183,7 +10236,7 @@ var data = [
     "county": "屏東縣",
     "address": "屏東縣內埔鄉學府路1號",
     "works": [
-      "1. 屏東縣內埔鄉學府路1號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10280,7 +10333,7 @@ var data = [
     "county": "屏東縣",
     "address": "屏東縣屏東市民生東路11巷11號",
     "works": [
-      "1. 屏東縣屏東市民生東路11巷11號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10370,7 +10423,7 @@ var data = [
     "county": "屏東縣",
     "address": "屏東縣坎頂鄉中正路230號",
     "works": [
-      "1. 屏東縣坎頂鄉中正路230號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10460,7 +10513,7 @@ var data = [
     "county": "屏東縣",
     "address": "屏東縣滿州鄉中山路43號",
     "works": [
-      "1. 屏東縣滿州鄉中山路43號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10550,7 +10603,7 @@ var data = [
     "county": "屏東縣",
     "address": "屏東縣恆春鎮中正路60號",
     "works": [
-      "1. 屏東縣恆春鎮中正路60號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10640,7 +10693,7 @@ var data = [
     "county": "台東縣",
     "address": "台東市中山路276號",
     "works": [
-      "1. 台東市中山路276號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10740,7 +10793,7 @@ var data = [
     "county": "台東縣",
     "address": "台東縣關山鎮中山路54號",
     "works": [
-      "1. 台東縣關山鎮中山路54號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10830,7 +10883,7 @@ var data = [
     "county": "台東縣",
     "address": "台東縣成功鎮太平路52號",
     "works": [
-      "1. 台東縣成功鎮太平路52號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -10915,7 +10968,7 @@ var data = [
     "county": "台東縣",
     "address": "台東市廣東路317號",
     "works": [
-      "1. 台東市廣東路317號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -11015,7 +11068,7 @@ var data = [
     "county": "花蓮縣",
     "address": "花蓮縣光復鄉林森路100號",
     "works": [
-      "1. 花蓮縣光復鄉林森路100號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -11105,7 +11158,7 @@ var data = [
     "county": "花蓮縣",
     "address": "花蓮縣吉安鄉干城村吉安路六段700號",
     "works": [
-      "1. 花蓮縣吉安鄉干城村吉安路六段700號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -11195,7 +11248,7 @@ var data = [
     "county": "花蓮縣",
     "address": "花蓮縣花蓮市府前路21號",
     "works": [
-      "1. 花蓮縣花蓮市府前路21號"
+
     ],
     "geo_results": {
       "address_components": [
@@ -11285,7 +11338,7 @@ var data = [
     "county": "連江縣",
     "address": "馬祖南竿鄉介壽村374號",
     "works": [
-      "1. 馬祖南竿鄉介壽村374號"
+
     ],
     "geo_results": {
       "address_components": [
