@@ -12,7 +12,7 @@
     });
 
     $.each(data, function(index, d) {
-      var l = d.geo_results[0].geometry.location;
+      var l = d.geo_results.geometry.location;
       var marker = new google.maps.Marker({
         position: new google.maps.LatLng(l.lat, l.lng),
         map: map,
@@ -24,7 +24,9 @@
         infowindow.open(map, marker);
       });
       infos[d.name.trim()] = d;
-      var a = $('<a></a>').attr('href', 'javascript:void(0)').text(d.name);
+      var span_tag = $('<span/>').addClass('county').text(d.county);
+      var span_name = $('<span/>').addClass('name').text(d.name);
+      var a = $('<a></a>').attr('href', 'javascript:void(0)').append(span_tag).append(span_name);
       var li = $('<li/>').html(a);
       a.mouseover(function() {
         $(this).parent().addClass('active');
@@ -37,10 +39,12 @@
       a.click(function(){
         var info = infos[marker.title];
         infowindow.content = [
-          "縣市：" + info.county,
-          "名稱：" + info.name,
-          "地址：" + info.address,
-          "　　　" + info.geo_results[0].formatted_address,
+          "縣　　市：" + info.county,
+          "機關名稱：" + info.name,
+          "職　　缺：" + info.need_now,
+          "是否現缺：" + (parseInt(info.has_need) == 1 ? "Yes" : "No"),
+          "地　　址：" + info.address,
+          "完整地址：" + info.geo_results.formatted_address,
           "工作內容：",
           info.works.join("<br/>")
         ].join("<br/>");
