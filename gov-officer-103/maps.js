@@ -1,6 +1,24 @@
 (function() {
   var infos = {}
 
+  String.prototype.hashCode = function() {
+    var hash = 0, i, char;
+    if (this.length == 0) return hash;
+    for (i = 0, l = this.length; i < l; i++) {
+      char  = this.charCodeAt(i);
+      hash  = ((hash<<5)-hash)+char;
+      hash |= 0; // Convert to 32bit integer
+    }
+    return hash;
+  };
+
+  function intToARGB(i) {
+    return ((i>>24)&0xFF).toString(16) +
+      ((i>>16)&0xFF).toString(16) +
+      ((i>>8)&0xFF).toString(16) +
+      (i&0xFF).toString(16);
+  }
+
   function initialize() {
     var mapOptions = {
       center: new google.maps.LatLng(25.046519, 121.517524),
@@ -24,7 +42,12 @@
         infowindow.open(map, marker);
       });
       infos[d.name.trim()] = d;
-      var span_tag = $('<span/>').addClass('county').text(d.county);
+      var hash = d.county.hashCode();
+      var color = intToARGB(hash).substr(0, 6);
+      if (hash % 2 == 0) {
+        color = color.split("").reverse().join("");
+      }
+      var span_tag = $('<span/>').addClass('county').text(d.county).css('background-color', "#" + color);
       var span_name = $('<span/>').addClass('name').text(d.name);
       var a = $('<a></a>').attr('href', 'javascript:void(0)').append(span_tag).append(span_name);
       var li = $('<li/>').html(a);
