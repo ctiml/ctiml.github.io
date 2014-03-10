@@ -1,5 +1,6 @@
 var data = [
   {
+    "id": "9",
     "name": "宜蘭縣政府警察局(含所屬機關)",
     "need_now": "1",
     "has_need": "1",
@@ -89,6 +90,7 @@ var data = [
     }
   },
   {
+    "id": "83",
     "name": "內政部警政署基隆港務總隊",
     "need_now": "1",
     "has_need": "1",
@@ -178,6 +180,7 @@ var data = [
     }
   },
   {
+    "id": "27",
     "name": "基隆市衛生局",
     "need_now": "1",
     "has_need": "1",
@@ -267,6 +270,7 @@ var data = [
     }
   },
   {
+    "id": "107",
     "name": "衛生福利部基隆醫院",
     "need_now": "1",
     "has_need": "1",
@@ -356,6 +360,7 @@ var data = [
     }
   },
   {
+    "id": "7",
     "name": "交通部公路總局台北市區監理所",
     "need_now": "1",
     "has_need": "0",
@@ -444,6 +449,7 @@ var data = [
     }
   },
   {
+    "id": "4",
     "name": "交通部民用航空局飛航服務總臺",
     "need_now": "1",
     "has_need": "1",
@@ -533,6 +539,7 @@ var data = [
     }
   },
   {
+    "id": "5",
     "name": "交通部觀光局",
     "need_now": "1",
     "has_need": "1",
@@ -622,6 +629,7 @@ var data = [
     }
   },
   {
+    "id": "6",
     "name": "交通部運輸研究所",
     "need_now": "1",
     "has_need": "1",
@@ -711,6 +719,7 @@ var data = [
     }
   },
   {
+    "id": "86",
     "name": "內政部警政署民防指揮管制所",
     "need_now": "1",
     "has_need": "1",
@@ -810,6 +819,7 @@ var data = [
     }
   },
   {
+    "id": "84",
     "name": "內政部警政署警察通訊所",
     "need_now": "2",
     "has_need": "1",
@@ -909,6 +919,7 @@ var data = [
     }
   },
   {
+    "id": "45",
     "name": "台北市信義區公所",
     "need_now": "1",
     "has_need": "1",
@@ -998,6 +1009,7 @@ var data = [
     }
   },
   {
+    "id": "46",
     "name": "台北市公共運輸處",
     "need_now": "5",
     "has_need": "1",
@@ -1087,6 +1099,7 @@ var data = [
     }
   },
   {
+    "id": "50",
     "name": "台北市政府地政局",
     "need_now": "1",
     "has_need": "1",
@@ -1176,6 +1189,7 @@ var data = [
     }
   },
   {
+    "id": "39",
     "name": "台北市政府工務局公園路燈工程管理處",
     "need_now": "1",
     "has_need": "1",
@@ -1265,6 +1279,7 @@ var data = [
     }
   },
   {
+    "id": "40",
     "name": "台北市政府工務局大地工程處",
     "need_now": "1",
     "has_need": "1",
@@ -1354,6 +1369,7 @@ var data = [
     }
   },
   {
+    "id": "36",
     "name": "台北市政府教育局",
     "need_now": "1",
     "has_need": "1",
@@ -1443,6 +1459,7 @@ var data = [
     }
   },
   {
+    "id": "44",
     "name": "台北市政府環境保護局",
     "need_now": "1",
     "has_need": "1",
@@ -1532,6 +1549,7 @@ var data = [
     }
   },
   {
+    "id": "43",
     "name": "台北市政府環境保護局",
     "need_now": "2",
     "has_need": "1",
@@ -1621,6 +1639,7 @@ var data = [
     }
   },
   {
+    "id": "49",
     "name": "台北市政府產業發展局",
     "need_now": "2",
     "has_need": "1",
@@ -1710,6 +1729,7 @@ var data = [
     }
   },
   {
+    "id": "41",
     "name": "台北市政府警察局",
     "need_now": "1",
     "has_need": "1",
@@ -1799,6 +1819,7 @@ var data = [
     }
   },
   {
+    "id": "42",
     "name": "台北市政府警察局(含所屬機關)",
     "need_now": "1",
     "has_need": "1",
@@ -1888,6 +1909,7 @@ var data = [
     }
   },
   {
+    "id": "47",
     "name": "台北市政府都市發展局",
     "need_now": "1",
     "has_need": "1",
@@ -1977,6 +1999,7 @@ var data = [
     }
   },
   {
+    "id": "37",
     "name": "台北市立圖書館",
     "need_now": "2",
     "has_need": "1",
@@ -2066,6 +2089,7 @@ var data = [
     }
   },
   {
+    "id": "38",
     "name": "台北市立百齡高級中學",
     "need_now": "1",
     "has_need": "1",
@@ -2154,6 +2178,7 @@ var data = [
     }
   },
   {
+    "id": "48",
     "name": "台北市立美術館",
     "need_now": "1",
     "has_need": "1",
@@ -2243,6 +2268,7 @@ var data = [
     }
   },
   {
+    "id": "125",
     "name": "國家通訊傳播委員會(仁愛大樓)",
     "need_now": "1",
     "has_need": "1",
@@ -2332,6 +2358,7 @@ var data = [
     }
   },
   {
+    "id": "124",
     "name": "國家通訊傳播委員會(濟南大樓)",
     "need_now": "1",
     "has_need": "1",
@@ -2421,6 +2448,7 @@ var data = [
     }
   },
   {
+    "id": "115",
     "name": "國立國父紀念館",
     "need_now": "1",
     "has_need": "1",
@@ -2510,6 +2538,7 @@ var data = [
     }
   },
   {
+    "id": "119",
     "name": "國立故宮博物院",
     "need_now": "1",
     "has_need": "0",
@@ -2599,6 +2628,7 @@ var data = [
     }
   },
   {
+    "id": "114",
     "name": "文化部",
     "need_now": "1",
     "has_need": "1",
@@ -2688,6 +2718,7 @@ var data = [
     }
   },
   {
+    "id": "1",
     "name": "總統府",
     "need_now": "1",
     "has_need": "1",
@@ -2777,6 +2808,7 @@ var data = [
     }
   },
   {
+    "id": "112",
     "name": "衛生福利部中央健康保險署",
     "need_now": "1",
     "has_need": "1",
@@ -2866,6 +2898,187 @@ var data = [
     }
   },
   {
+    "id": "110",
+    "name": "衛生福利部中央健康保險署",
+    "need_now": "1",
+    "has_need": "1",
+    "county": "台北市",
+    "address": "台北市大安區信義路三段140號",
+    "works": [
+      "1. 台北市大安區信義路三段140號"
+    ],
+    "geo_results": {
+      "address_components": [
+        {
+          "long_name": "140",
+          "short_name": "140",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "信義路三段",
+          "short_name": "信義路三段",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "龍圖里",
+          "short_name": "龍圖里",
+          "types": [
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "大安區",
+          "short_name": "大安區",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "台北市",
+          "short_name": "北市",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "台灣",
+          "short_name": "TW",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "106",
+          "short_name": "106",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "106台灣台北市大安區信義路三段140號",
+      "geometry": {
+        "location": {
+          "lat": 25.03313,
+          "lng": 121.540161
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 25.0344789802915,
+            "lng": 121.5415099802915
+          },
+          "southwest": {
+            "lat": 25.0317810197085,
+            "lng": 121.5388120197085
+          }
+        }
+      },
+      "partial_match": true,
+      "types": [
+        "street_address"
+      ]
+    }
+  },
+  {
+    "id": "111",
+    "name": "衛生福利部中央健康保險署",
+    "need_now": "1",
+    "has_need": "1",
+    "county": "台北市",
+    "address": "台北市大安區信義路三段140號",
+    "works": [
+      "1. 台北市大安區信義路三段140號"
+    ],
+    "geo_results": {
+      "address_components": [
+        {
+          "long_name": "140",
+          "short_name": "140",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "信義路三段",
+          "short_name": "信義路三段",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "龍圖里",
+          "short_name": "龍圖里",
+          "types": [
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "大安區",
+          "short_name": "大安區",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "台北市",
+          "short_name": "北市",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "台灣",
+          "short_name": "TW",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "106",
+          "short_name": "106",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "106台灣台北市大安區信義路三段140號",
+      "geometry": {
+        "location": {
+          "lat": 25.03313,
+          "lng": 121.540161
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 25.0344789802915,
+            "lng": 121.5415099802915
+          },
+          "southwest": {
+            "lat": 25.0317810197085,
+            "lng": 121.5388120197085
+          }
+        }
+      },
+      "partial_match": true,
+      "types": [
+        "street_address"
+      ]
+    }
+  },
+  {
+    "id": "108",
     "name": "衛生福利部疾病管制署",
     "need_now": "2",
     "has_need": "1",
@@ -2955,6 +3168,7 @@ var data = [
     }
   },
   {
+    "id": "109",
     "name": "衛生福利部食品藥物管理署",
     "need_now": "1",
     "has_need": "1",
@@ -3044,6 +3258,7 @@ var data = [
     }
   },
   {
+    "id": "88",
     "name": "財政部台北國稅局",
     "need_now": "1",
     "has_need": "1",
@@ -3133,6 +3348,7 @@ var data = [
     }
   },
   {
+    "id": "90",
     "name": "財政部國有財產署北區分署",
     "need_now": "1",
     "has_need": "1",
@@ -3222,6 +3438,7 @@ var data = [
     }
   },
   {
+    "id": "104",
     "name": "勞動部勞動力發展署",
     "need_now": "1",
     "has_need": "1",
@@ -3311,6 +3528,7 @@ var data = [
     }
   },
   {
+    "id": "105",
     "name": "勞動部職業安全衛生署",
     "need_now": "1",
     "has_need": "1",
@@ -3400,6 +3618,7 @@ var data = [
     }
   },
   {
+    "id": "117",
     "name": "國軍退除役官兵輔導委員會板橋榮譽國民之家",
     "need_now": "1",
     "has_need": "1",
@@ -3489,6 +3708,7 @@ var data = [
     }
   },
   {
+    "id": "65",
     "name": "新北市三峽區公所",
     "need_now": "1",
     "has_need": "1",
@@ -3578,6 +3798,7 @@ var data = [
     }
   },
   {
+    "id": "66",
     "name": "新北市土城區公所",
     "need_now": "1",
     "has_need": "1",
@@ -3667,6 +3888,7 @@ var data = [
     }
   },
   {
+    "id": "58",
     "name": "新北市政府政風處",
     "need_now": "1",
     "has_need": "1",
@@ -3755,6 +3977,7 @@ var data = [
     }
   },
   {
+    "id": "53",
     "name": "新北市政府教育局",
     "need_now": "1",
     "has_need": "1",
@@ -3843,6 +4066,7 @@ var data = [
     }
   },
   {
+    "id": "54",
     "name": "新北市政府新建工程處",
     "need_now": "2",
     "has_need": "1",
@@ -3931,6 +4155,7 @@ var data = [
     }
   },
   {
+    "id": "51",
     "name": "新北市政府殯葬管理處",
     "need_now": "1",
     "has_need": "1",
@@ -4020,6 +4245,7 @@ var data = [
     }
   },
   {
+    "id": "59",
     "name": "新北市政府水利局",
     "need_now": "1",
     "has_need": "1",
@@ -4108,6 +4334,7 @@ var data = [
     }
   },
   {
+    "id": "62",
     "name": "新北市政府消防局",
     "need_now": "1",
     "has_need": "1",
@@ -4197,6 +4424,7 @@ var data = [
     }
   },
   {
+    "id": "56",
     "name": "新北市政府環境保護局",
     "need_now": "1",
     "has_need": "1",
@@ -4286,6 +4514,7 @@ var data = [
     }
   },
   {
+    "id": "57",
     "name": "新北市政府研究發展考核委員會",
     "need_now": "1",
     "has_need": "1",
@@ -4374,6 +4603,7 @@ var data = [
     }
   },
   {
+    "id": "52",
     "name": "新北市政府稅捐稽徵處",
     "need_now": "1",
     "has_need": "1",
@@ -4463,6 +4693,7 @@ var data = [
     }
   },
   {
+    "id": "55",
     "name": "新北市政府警察局",
     "need_now": "1",
     "has_need": "1",
@@ -4552,6 +4783,7 @@ var data = [
     }
   },
   {
+    "id": "61",
     "name": "新北市政府都市更新處",
     "need_now": "1",
     "has_need": "1",
@@ -4643,6 +4875,7 @@ var data = [
     }
   },
   {
+    "id": "60",
     "name": "新北市政府高灘地工程管理處",
     "need_now": "1",
     "has_need": "1",
@@ -4732,6 +4965,7 @@ var data = [
     }
   },
   {
+    "id": "64",
     "name": "新北市新店區公所",
     "need_now": "1",
     "has_need": "1",
@@ -4821,6 +5055,7 @@ var data = [
     }
   },
   {
+    "id": "63",
     "name": "新北市永和區公所",
     "need_now": "1",
     "has_need": "1",
@@ -4910,6 +5145,7 @@ var data = [
     }
   },
   {
+    "id": "67",
     "name": "新北市議會",
     "need_now": "1",
     "has_need": "1",
@@ -4999,6 +5235,7 @@ var data = [
     }
   },
   {
+    "id": "12",
     "name": "桃園縣大溪鎮公所(含所屬機關)",
     "need_now": "1",
     "has_need": "0",
@@ -5088,6 +5325,7 @@ var data = [
     }
   },
   {
+    "id": "28",
     "name": "桃園縣政府教育局",
     "need_now": "1",
     "has_need": "1",
@@ -5198,6 +5436,7 @@ var data = [
     }
   },
   {
+    "id": "29",
     "name": "桃園縣政府教育局",
     "need_now": "1",
     "has_need": "0",
@@ -5308,6 +5547,7 @@ var data = [
     }
   },
   {
+    "id": "33",
     "name": "桃園縣政府新聞處",
     "need_now": "1",
     "has_need": "1",
@@ -5418,6 +5658,7 @@ var data = [
     }
   },
   {
+    "id": "31",
     "name": "桃園縣政府研究發展考核委員會",
     "need_now": "1",
     "has_need": "1",
@@ -5528,6 +5769,7 @@ var data = [
     }
   },
   {
+    "id": "34",
     "name": "桃園縣政府觀光旅遊局",
     "need_now": "1",
     "has_need": "1",
@@ -5638,6 +5880,7 @@ var data = [
     }
   },
   {
+    "id": "10",
     "name": "桃園縣政府警察局",
     "need_now": "3",
     "has_need": "1",
@@ -5727,6 +5970,7 @@ var data = [
     }
   },
   {
+    "id": "11",
     "name": "桃園縣政府警察局",
     "need_now": "1",
     "has_need": "0",
@@ -5816,6 +6060,7 @@ var data = [
     }
   },
   {
+    "id": "32",
     "name": "桃園縣政府資訊中心",
     "need_now": "1",
     "has_need": "0",
@@ -5926,6 +6171,7 @@ var data = [
     }
   },
   {
+    "id": "30",
     "name": "桃園縣政府體育處",
     "need_now": "1",
     "has_need": "1",
@@ -6015,6 +6261,7 @@ var data = [
     }
   },
   {
+    "id": "98",
     "name": "法務部矯正署台北監獄",
     "need_now": "1",
     "has_need": "1",
@@ -6105,6 +6352,7 @@ var data = [
     }
   },
   {
+    "id": "8",
     "name": "行政院環境保護署環境保護人員訓練所",
     "need_now": "1",
     "has_need": "1",
@@ -6194,6 +6442,7 @@ var data = [
     }
   },
   {
+    "id": "123",
     "name": "新竹選舉委員會",
     "need_now": "1",
     "has_need": "1",
@@ -6263,6 +6512,7 @@ var data = [
     }
   },
   {
+    "id": "102",
     "name": "法務部矯正署新竹看守所",
     "need_now": "1",
     "has_need": "1",
@@ -6352,6 +6602,7 @@ var data = [
     }
   },
   {
+    "id": "106",
     "name": "衛生福利部少年之家",
     "need_now": "1",
     "has_need": "1",
@@ -6422,6 +6673,7 @@ var data = [
     }
   },
   {
+    "id": "13",
     "name": "苗栗縣政府",
     "need_now": "1",
     "has_need": "1",
@@ -6511,6 +6763,7 @@ var data = [
     }
   },
   {
+    "id": "14",
     "name": "苗栗縣政府國際文化觀光局",
     "need_now": "1",
     "has_need": "1",
@@ -6600,6 +6853,7 @@ var data = [
     }
   },
   {
+    "id": "70",
     "name": "台中市勞工局",
     "need_now": "1",
     "has_need": "1",
@@ -6689,6 +6943,7 @@ var data = [
     }
   },
   {
+    "id": "72",
     "name": "台中市東區區公所",
     "need_now": "1",
     "has_need": "1",
@@ -6778,6 +7033,7 @@ var data = [
     }
   },
   {
+    "id": "71",
     "name": "台中市消防局",
     "need_now": "1",
     "has_need": "1",
@@ -6867,6 +7123,7 @@ var data = [
     }
   },
   {
+    "id": "69",
     "name": "台中市研考會",
     "need_now": "1",
     "has_need": "1",
@@ -6956,6 +7213,7 @@ var data = [
     }
   },
   {
+    "id": "68",
     "name": "台中市警察局.所屬機關",
     "need_now": "1",
     "has_need": "1",
@@ -7045,6 +7303,7 @@ var data = [
     }
   },
   {
+    "id": "118",
     "name": "台中榮民總醫院",
     "need_now": "1",
     "has_need": "1",
@@ -7129,6 +7388,7 @@ var data = [
     }
   },
   {
+    "id": "93",
     "name": "台中科技大學",
     "need_now": "2",
     "has_need": "1",
@@ -7225,6 +7485,7 @@ var data = [
     }
   },
   {
+    "id": "91",
     "name": "國立自然科學博物館",
     "need_now": "1",
     "has_need": "1",
@@ -7314,6 +7575,7 @@ var data = [
     }
   },
   {
+    "id": "103",
     "name": "法務部矯正署台中看守所",
     "need_now": "1",
     "has_need": "1",
@@ -7403,6 +7665,7 @@ var data = [
     }
   },
   {
+    "id": "113",
     "name": "衛生福利部健保署",
     "need_now": "1",
     "has_need": "1",
@@ -7492,6 +7755,7 @@ var data = [
     }
   },
   {
+    "id": "97",
     "name": "國立和美實驗學校",
     "need_now": "1",
     "has_need": "1",
@@ -7581,6 +7845,7 @@ var data = [
     }
   },
   {
+    "id": "16",
     "name": "彰化縣彰化市公所",
     "need_now": "1",
     "has_need": "1",
@@ -7670,6 +7935,7 @@ var data = [
     }
   },
   {
+    "id": "15",
     "name": "彰化縣政府",
     "need_now": "1",
     "has_need": "1",
@@ -7759,6 +8025,7 @@ var data = [
     }
   },
   {
+    "id": "120",
     "name": "彰化縣選舉委員會",
     "need_now": "1",
     "has_need": "1",
@@ -7848,6 +8115,7 @@ var data = [
     }
   },
   {
+    "id": "87",
     "name": "內政部役政署",
     "need_now": "1",
     "has_need": "1",
@@ -7937,6 +8205,7 @@ var data = [
     }
   },
   {
+    "id": "116",
     "name": "國軍退輔會南投縣榮民處",
     "need_now": "1",
     "has_need": "1",
@@ -8026,6 +8295,7 @@ var data = [
     }
   },
   {
+    "id": "19",
     "name": "雲林縣四湖鄉公所",
     "need_now": "1",
     "has_need": "1",
@@ -8115,6 +8385,7 @@ var data = [
     }
   },
   {
+    "id": "18",
     "name": "雲林縣東勢鄉公所",
     "need_now": "1",
     "has_need": "1",
@@ -8204,6 +8475,7 @@ var data = [
     }
   },
   {
+    "id": "17",
     "name": "雲林縣林內鄉公所",
     "need_now": "1",
     "has_need": "1",
@@ -8293,6 +8565,7 @@ var data = [
     }
   },
   {
+    "id": "35",
     "name": "雲林縣議會",
     "need_now": "1",
     "has_need": "1",
@@ -8382,6 +8655,7 @@ var data = [
     }
   },
   {
+    "id": "121",
     "name": "雲林選舉委員會",
     "need_now": "1",
     "has_need": "1",
@@ -8471,6 +8745,7 @@ var data = [
     }
   },
   {
+    "id": "20",
     "name": "嘉義縣警察局",
     "need_now": "2",
     "has_need": "1",
@@ -8560,6 +8835,7 @@ var data = [
     }
   },
   {
+    "id": "122",
     "name": "嘉義選舉委員會",
     "need_now": "1",
     "has_need": "1",
@@ -8652,6 +8928,7 @@ var data = [
     }
   },
   {
+    "id": "80",
     "name": "台南市大內區公所",
     "need_now": "1",
     "has_need": "1",
@@ -8736,6 +9013,7 @@ var data = [
     }
   },
   {
+    "id": "74",
     "name": "台南市政府",
     "need_now": "1",
     "has_need": "1",
@@ -8825,6 +9103,7 @@ var data = [
     }
   },
   {
+    "id": "73",
     "name": "台南市政府",
     "need_now": "1",
     "has_need": "1",
@@ -8914,6 +9193,7 @@ var data = [
     }
   },
   {
+    "id": "79",
     "name": "台南市東山區公所",
     "need_now": "1",
     "has_need": "1",
@@ -9012,6 +9292,7 @@ var data = [
     }
   },
   {
+    "id": "77",
     "name": "台南市環保局",
     "need_now": "1",
     "has_need": "1",
@@ -9101,6 +9382,7 @@ var data = [
     }
   },
   {
+    "id": "78",
     "name": "台南市白河區公所",
     "need_now": "1",
     "has_need": "1",
@@ -9190,6 +9472,7 @@ var data = [
     }
   },
   {
+    "id": "76",
     "name": "台南市衛生局",
     "need_now": "1",
     "has_need": "1",
@@ -9279,6 +9562,7 @@ var data = [
     }
   },
   {
+    "id": "75",
     "name": "台南市警察局",
     "need_now": "1",
     "has_need": "1",
@@ -9368,6 +9652,7 @@ var data = [
     }
   },
   {
+    "id": "99",
     "name": "法務部矯正署明德外役監獄",
     "need_now": "1",
     "has_need": "1",
@@ -9452,6 +9737,7 @@ var data = [
     }
   },
   {
+    "id": "3",
     "name": "經濟部水利署南區水資源局",
     "need_now": "1",
     "has_need": "1",
@@ -9530,6 +9816,7 @@ var data = [
     }
   },
   {
+    "id": "2",
     "name": "經濟部加工出口區管理處高雄分處",
     "need_now": "1",
     "has_need": "1",
@@ -9619,6 +9906,7 @@ var data = [
     }
   },
   {
+    "id": "89",
     "name": "財政部高雄國稅局",
     "need_now": "1",
     "has_need": "1",
@@ -9708,6 +9996,7 @@ var data = [
     }
   },
   {
+    "id": "82",
     "name": "高雄市立中醫院",
     "need_now": "1",
     "has_need": "1",
@@ -9797,6 +10086,7 @@ var data = [
     }
   },
   {
+    "id": "81",
     "name": "高雄市衛生局",
     "need_now": "1",
     "has_need": "1",
@@ -9886,6 +10176,7 @@ var data = [
     }
   },
   {
+    "id": "92",
     "name": "國立屏東科技大學",
     "need_now": "1",
     "has_need": "1",
@@ -9982,6 +10273,7 @@ var data = [
     }
   },
   {
+    "id": "22",
     "name": "屏東縣屏東市立殯儀館",
     "need_now": "1",
     "has_need": "1",
@@ -10071,6 +10363,7 @@ var data = [
     }
   },
   {
+    "id": "23",
     "name": "屏東縣崁頂鄉公所",
     "need_now": "1",
     "has_need": "1",
@@ -10160,6 +10453,7 @@ var data = [
     }
   },
   {
+    "id": "24",
     "name": "屏東縣滿洲鄉公所",
     "need_now": "1",
     "has_need": "1",
@@ -10249,6 +10543,7 @@ var data = [
     }
   },
   {
+    "id": "21",
     "name": "屏東縣警察局恆春分局",
     "need_now": "1",
     "has_need": "1",
@@ -10338,6 +10633,7 @@ var data = [
     }
   },
   {
+    "id": "25",
     "name": "台東縣政府",
     "need_now": "1",
     "has_need": "1",
@@ -10437,6 +10733,7 @@ var data = [
     }
   },
   {
+    "id": "26",
     "name": "台東縣關山鎮公所",
     "need_now": "1",
     "has_need": "1",
@@ -10526,6 +10823,7 @@ var data = [
     }
   },
   {
+    "id": "96",
     "name": "國立成功商業水產職業學校",
     "need_now": "1",
     "has_need": "1",
@@ -10610,6 +10908,7 @@ var data = [
     }
   },
   {
+    "id": "100",
     "name": "法務部矯正署台東監獄",
     "need_now": "1",
     "has_need": "1",
@@ -10709,6 +11008,7 @@ var data = [
     }
   },
   {
+    "id": "95",
     "name": "國立光復高級商工職業學校",
     "need_now": "1",
     "has_need": "1",
@@ -10798,6 +11098,7 @@ var data = [
     }
   },
   {
+    "id": "101",
     "name": "法務部矯正署花蓮監獄",
     "need_now": "1",
     "has_need": "1",
@@ -10887,6 +11188,7 @@ var data = [
     }
   },
   {
+    "id": "85",
     "name": "花蓮縣警察局",
     "need_now": "2",
     "has_need": "1",
@@ -10976,6 +11278,7 @@ var data = [
     }
   },
   {
+    "id": "94",
     "name": "馬祖高中",
     "need_now": "1",
     "has_need": "1",
